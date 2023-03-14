@@ -1,0 +1,8 @@
+@inproceedings{REPO-332,
+    author = "Borgs, Christian and Brautbar, Michael and Chayes, Jennifer and Lucier, Brendan",
+    booktitle = "Proceedings of the twenty-fifth annual ACM-SIAM symposium on Discrete algorithms",
+    organization = "SIAM",
+    pages = "946--957",
+    title = "{Maximizing Social Influence in Nearly Optimal Time}",
+    year = "2014"
+}
